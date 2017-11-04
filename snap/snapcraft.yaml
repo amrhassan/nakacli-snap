@@ -12,6 +12,8 @@ apps:
 
 parts:
   nakacli:
+    build-packages:
+      - libssl-dev
     plugin: rust
     source: https://github.com/amrhassan/nakacli.git
     source-tag: '0.0.0'

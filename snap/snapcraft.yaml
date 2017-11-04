@@ -15,3 +15,4 @@ parts:
     plugin: rust
     source: https://github.com/BurntSushi/ripgrep.git
     source-tag: '0.0.0'
+    rust-channel: nightly

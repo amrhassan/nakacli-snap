@@ -1,5 +1,5 @@
 name: nakacli
-version: '0.0.1'
+version: '0.1.0'
 summary: CLI Client for Nakadi Edit
 description: CLI Client for Nakadi Edit
 
@@ -17,5 +17,5 @@ parts:
       - libssl-dev
     plugin: rust
     source: https://github.com/amrhassan/nakacli.git
-    source-tag: '0.0.1'
+    source-tag: '0.1.0'
     rust-channel: nightly

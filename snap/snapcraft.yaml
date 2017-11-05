@@ -1,5 +1,5 @@
 name: nakacli
-version: '0.0.0'
+version: '0.0.1'
 summary: CLI Client for Nakadi Edit
 description: CLI Client for Nakadi Edit
 
@@ -14,5 +14,5 @@ parts:
   nakacli:
     plugin: rust
     source: https://github.com/BurntSushi/ripgrep.git
-    source-tag: '0.0.0'
+    source-tag: '0.0.1'
     rust-channel: nightly
